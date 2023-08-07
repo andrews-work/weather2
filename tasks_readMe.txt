@@ -1,8 +1,10 @@
 
-1. create file structure
+Learn some basic react
 
-2. list functions needed
+Fetch more data from the api
 
-3. list variables
+hide future forecast from initial view
 
-4. which variables interact with which functionsnp
+convert temperature from kelvin
+
+convert wind speed to km/h 
